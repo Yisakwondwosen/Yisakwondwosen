@@ -1,16 +1,24 @@
-## Hi there 👋
+# 🇪🇹 Yisak Wondwosen | Founder & CTO
 
-<!--
-**Yisakwondwosen/Yisakwondwosen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**IT Professional | Software Developer | Cybersecurity Practitioner**
 
-Here are some ideas to get you started:
+I build resilient tech ecosystems. From scaling school communication platforms in Addis Ababa to architecting secure logistics solutions, my focus is on **Security-by-Design**, **Enterprise Odoo systems**, and the **African Startup ecosystem.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Current Initiatives
+- **Founder @ Knotify**: Revolutionizing parent-teacher engagement (Featured on EBC & Ahadu Radio).
+- **CTO @ Ndoto IT**: Delivering specialized Odoo solutions and infrastructure for Ethiopian businesses.
+- **2026 JICA Fellow**: Selected for the Business Incubation Support Program in **Tokyo, Japan**.
+- **Security**: Completing the Google Cybersecurity Professional Certificate.
+
+### 🛡️ Featured Showcase
+- [Defensive Development Lab](https://github.com/Yisakwondwosen/defensive-development-lab): A functional suite demonstrating OWASP Top 10 mitigations, Argon2id hashing, and AES-256 encryption. **Status: [Verified Green]**
+
+### 🎸 Beyond the Code
+- **Lead Guitarist**: Inspired by the tones of Brian May (Queen) and classic rock.
+- **Philosophy**: Strategic thinker influenced by *Zero to One* and Human Design.
+- **Aesthetic**: *Cowboy Bebop* minimalism and Basquiat-inspired art.
+
+---
+*Building the future of Ethiopia's digital landscape, one secure commit at a time.*
