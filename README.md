@@ -1,4 +1,4 @@
-# 🇪🇹 Yisak Wondwosen | Founder & CTO
+# Yisak Wondwosen | Founder & CTO
 
 **IT Professional | Software Developer | Cybersecurity Practitioner**
 
